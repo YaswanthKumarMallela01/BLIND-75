@@ -29,7 +29,7 @@ This is not just a solution archive — it is a structured preparation asset des
 ## 🗂 Problem Solutions
 
 ** Outcomes:-----> Arrays, prefix logic, sliding window instincts go live <-----**
-* [Two Sum](https://github.com/YaswanthKumarMallela01/BLIND-75/blob/master/TwoSum/Solution.cpp) | [Solve Here](https://leetcode.com/problems/two-sum/)
+* [Two Sum](https://github.com/YaswanthKumarMallela01/BLIND-75/tree/master/Two%20Sum/Solution) | [Solve Here](https://leetcode.com/problems/two-sum/)
 
 > Problems are organized **by topic** to emphasize reusable patterns and structured thinking.
 
